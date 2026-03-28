@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Shaharsh Srivastava 👋
 
-<!--
-**sshaharsh/sshaharsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & Bioinformatics) Student at VIT  
+💡 Passionate about Artificial Intelligence & Machine Learning  
+🚀 Exploring real-world problem solving using technology  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Interests
+- Python (Beginner to Intermediate)
+- Machine Learning (Learning phase)
+- Data Structures & Algorithms
+- Git & GitHub
+- Problem Solving
+
+---
+
+## 📌 Current Focus
+- Building strong foundation in AI/ML
+- Working on projects to improve practical skills
+- Preparing for internships in tech field
+
+---
+
+## 📂 Projects
+- Digital Literacy Project https://github.com/sshaharsh/digital-literacy-project
+- More projects coming soon...
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: www.linkedin.com/in/shaharsh-srivastava-0550743ba
+- Email: shaharsh.25mib10041@vitbhopaL.ac.in
+
+---
+
+## ⚡ Fun Fact
+I believe consistency beats talent 🚀
