@@ -19,20 +19,5 @@
 - Building strong foundation in AI/ML
 - Working on projects to improve practical skills
 - Preparing for internships in tech field
-
----
-
-## 📂 Projects
-- Digital Literacy Project https://github.com/sshaharsh/digital-literacy-project
-- More projects coming soon...
-
----
-
-## 📫 Connect with Me
-- LinkedIn: www.linkedin.com/in/shaharsh-srivastava-0550743ba
-- Email: shaharsh.25mib10041@vitbhopaL.ac.in
-
----
-
-## ⚡ Fun Fact
-I believe consistency beats talent 🚀
+  
+------------
