@@ -1,6 +1,6 @@
 # Hi, I'm Shaharsh Srivastava 👋
 
-🎓 B.Tech CSE (AI & Bioinformatics) Student at VIT  
+🎓 B.Tech CSE AI&ML Student at VIT  
 💡 Passionate about Artificial Intelligence & Machine Learning  
 🚀 Exploring real-world problem solving using technology  
 
